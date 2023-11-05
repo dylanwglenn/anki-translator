@@ -2,7 +2,6 @@ import PySimpleGUI as sg
 import requests  # Request to website and download HTML contents
 import urllib.request
 import json
-import pyperclip
 import azure.cognitiveservices.speech as speechsdk
 
 # import pdb #debugging; pdb.set_trace()
