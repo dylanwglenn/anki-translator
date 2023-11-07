@@ -23,6 +23,8 @@ python TranslatorForAnki.pyw
 ## Use
 **Anki must be running for the script to function!**
 
-![GUI Screenshot](/screenshot.jpg "Screenshot")
+<p align="center">
+	<img src="screenshot.jpg" alt="GUI screenshot" title="screenshot" width="400px;"/>
+</p>
 
 The program will detect which langauge to translate to/from based on the text box the cursor is active in. If the course is active in the "English" text box, it will transalte to the target language, and vise versa.
