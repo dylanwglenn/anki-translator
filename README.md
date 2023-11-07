@@ -6,7 +6,7 @@ This repo serves as a tool to streamline the creation of langauge-learning flash
 ## Setup
 1. Make sure you have the [AnkiConnect](https://ankiweb.net/shared/info/2055492159) addon installed in Anki. This allows external programs to add/edit/remove cards in Anki.
 
-2. Attain API keys for DeepL and Azure TTS. Follow [this link](https://www.deepl.com/pro-api?cta=header-pro-api) to create a DeepL account and attain a key. The process for an Azure API key is a bit more convoluted. Follow [this link)[https://azure.microsoft.com/en-us/free/ai-services/#all-free-services] and create a **free** account. As of writing this, a free account with Azure will get you 500,000 characters per month.
+2. Attain API keys for DeepL and Azure TTS. Follow [this link](https://www.deepl.com/pro-api?cta=header-pro-api) to create a DeepL account and attain a key. The process for an Azure API key is a bit more convoluted. Follow [this link][https://azure.microsoft.com/en-us/free/ai-services/#all-free-services] and create a **free** account. As of writing this, a free account with Azure will get you 500,000 characters per month.
 
 3. Open the Setup.json file and paste your API keys in their respective field. Also, input the path for your Anki "collection.media" folder.
 
