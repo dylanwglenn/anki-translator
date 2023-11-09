@@ -27,4 +27,4 @@ python TranslatorForAnki.pyw
 	<img src="screenshot.jpg" alt="GUI screenshot" title="screenshot" width="400px;"/>
 </p>
 
-The program will detect which langauge to translate to/from based on the text box the cursor is active in. If the course is active in the "English" text box, it will transalte to the target language, and vise versa.
+The program will detect which langauge to translate to/from based on the text box the cursor is active in. If the course is active in the "English" text box, it will translate to the target language, and vise versa.
